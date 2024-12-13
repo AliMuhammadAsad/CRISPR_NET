@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<BIF VERSION="0.3">
+  <NETWORK>
+    <NAME>UNTITLED</NAME>
+    <VARIABLE TYPE="nature">
+      <NAME>SP01</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP02</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP03</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP04</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP05</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP06</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP07</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP08</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP09</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP10</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP11</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP12</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP13</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP14</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP15</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP16</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP17</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP18</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP19</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP20</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP21</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP22</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP23</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP24</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP25</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP26</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP27</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP28</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP29</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>SP30</NAME>
+      <PROPERTY />
+    </VARIABLE>
+    <VARIABLE TYPE="nature">
+      <NAME>mean_targeting_efficiency</NAME>
+      <PROPERTY />
+    </VARIABLE>
+  </NETWORK>
+</BIF>
